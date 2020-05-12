@@ -1,0 +1,4 @@
+
+scp mininet@192.168.0.13:/home/mininet/gt-cs6250/assignment-3/parkinglot.py .
+or... from the vm
+mininet@mininet-vm:~/gt-cs6250/assignment-7$ scp pox_firewall.py tfairchild@192.168.0.4:/Users/tfairchild/cs6250/
